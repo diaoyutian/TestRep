@@ -9,8 +9,5 @@ getkankan sha qingkuang
 
 made zgo zhongewn jiu kan bu 
 
-<<<<<<< HEAD
 xiu gai bug£¡
-=======
 readme demo push
->>>>>>> dev

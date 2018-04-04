@@ -6,3 +6,5 @@ readme what't mean?
 
 
 made zgo zhongewn jiu kan bu 
+
+readme demo push
